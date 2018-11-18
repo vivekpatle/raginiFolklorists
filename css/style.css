@@ -5,16 +5,19 @@
       height: 100%;
     }
     #backimg{
-      opacity: 0.5;
+      opacity: 0.3;
     }
     .raginifont{
-      font-family: 'Fredericka the Great', cursive;
+      
+      color: #45526e;
     }
     .raginisubtitle{
       font-family: 'Bungee Inline', cursive;
+      color: #59698d;
     }
     .raginicontent{
       font-family: 'Comfortaa', cursive;
+      color: #f2f6ff;
     }
     .pagehead{
       font-family: 'Patua One', cursive;
